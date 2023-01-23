@@ -8,7 +8,7 @@ This is StockUp, a full-stack ecommers application. Come purchase some cool item
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, NextJs, Sanity, and Stripe
+**Tech used:** HTML, CSS, JavaScript, NextJs, Tailwind, MongoDB, and Stripe
 
 
 ## Optimizations
